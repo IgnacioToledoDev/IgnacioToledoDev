@@ -39,6 +39,10 @@ Passionate about programming and constantly seeking opportunities to learn and g
 
 ![IgnacioToledoDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioToledoDev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
+
+![IgnacioToledoDev's Stats](https://github-readme-stats.vercel.app/api?username=IgnacioToledoDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+
 <!--
 **IgnacioToledoDev/IgnacioToledoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
