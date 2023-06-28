@@ -34,7 +34,10 @@ Passionate about programming and constantly seeking opportunities to learn and g
   <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
+<br/>
 
+
+![IgnacioToledoDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioToledoDev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **IgnacioToledoDev/IgnacioToledoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
