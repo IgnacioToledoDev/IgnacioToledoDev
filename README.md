@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/ignaciotoledodev/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-30302f?style=flat&logo=Gmail&logoColor=red)]]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-30302f?style=flat&logo=Gmail&logoColor=red)(igna.toledot@gmail.com)]
 <h3 align="center">WEB & Software Developer</h3>
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"> I'm <a  href="https://github.com/IgnacioToledoDev/">Ignacio Toledo</a> </h1>
 Passionate about programming and constantly seeking opportunities to learn and grow in the world of software development 💻
