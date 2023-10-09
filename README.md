@@ -1,10 +1,10 @@
-<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+<img align="right" width="370" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/ignaciotoledodev/) 
 [![Gmail Badge](https://img.shields.io/badge/igna.toledot@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](igna.toledot@gmail.com)
 <h3 align="center">WEB & Software Developer</h3>
-<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px"> I'm <a  href="https://github.com/IgnacioToledoDev/">Ignacio Toledo</a> </h1>
+<h2 align="left"> Hi there I'm Ignacio Toledo</a> </h1>
 Passionate about programming and constantly seeking opportunities to learn and grow in the world of software development 💻
 
 <br />
