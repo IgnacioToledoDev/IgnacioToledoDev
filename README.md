@@ -1,42 +1,52 @@
-<img align="right" width="370" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=520&lines=NoctiDev+%2F+Software+Engineer;Designing+systems+that+last;PHP+%7C+TypeScript+%7C+Rust+%7C+Node.js;Shipping+production-grade+backends" alt="Typing SVG" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/ignaciotoledodev/) 
-[![Gmail Badge](https://img.shields.io/badge/igna.toledot@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](igna.toledot@gmail.com)
-<h3 align="center">WEB & Software Developer</h3>
-<h2 align="left"> Hi there I'm Ignacio Toledo</a> </h1>
-Passionate about programming and constantly seeking opportunities to learn and grow in the world of software development 💻
+</div>
 
-<br />
+---
 
-<h2 align="left">🚀 About Me</h2>
-💼  I’m currently working on freelancer job  <br>
-🌱 Seeking to become a full-stack developer  <br>
-🎓  I'm also pursuing a bachelors degree in software engineering <br>
+```bash
+$ whoami
+  NoctiDev — Software Engineer
 
+$ cat about.txt
+  Software Engineer specializing in backend systems and APIs.
+  Freelancer building production-grade solutions.
+  Pushing deeper into systems programming with Rust.
 
-## Technologies currently using
+$ ls skills/
+  Languages:   Rust · TypeScript · PHP · JavaScript
+  Runtimes:    Node.js
+  Databases:   PostgreSQL · MySQL
+  Tools:       Express.js · REST APIs
 
-<div>
-  <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+$ cat goals.txt
+  → Design systems that are robust and maintainable
+  → Master low-level programming and performance optimization
+  → Build products that solve real problems
 
-<br/>
+$ _
+```
 
-<!--
-**IgnacioToledoDev/IgnacioToledoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
+</div>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciotoledodev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igna.toledot@gmail.com)
